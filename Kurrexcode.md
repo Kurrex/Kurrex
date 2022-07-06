@@ -1,5 +1,4 @@
 Fivem Developer and Coder
 
-Lua, javascripts, sql and HTLM
+Lua, javascripts, css, c+, c++, HTLM
 
-Teen tosiaan fivemään scriptejä ja täältä pääse mun luomuksia latailemaan
